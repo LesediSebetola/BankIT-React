@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/BankIT/static/css/main.19d664e2.css",
-    "main.js": "/BankIT/static/js/main.cb7ee39b.js",
-    "static/js/787.db517aee.chunk.js": "/BankIT/static/js/787.db517aee.chunk.js",
-    "static/media/online.jpg": "/BankIT/static/media/online.fb4414f214e3a446e67b.jpg",
-    "static/media/IMG_7185.JPG": "/BankIT/static/media/IMG_7185.f8d5781fcdf25f45e3dc.JPG",
-    "static/media/business.PNG": "/BankIT/static/media/business.64c70d6b30235027c6e2.PNG",
-    "static/media/cancel.PNG": "/BankIT/static/media/cancel.8f1aa38087deb33c69d0.PNG",
-    "static/media/menu.PNG": "/BankIT/static/media/menu.319942c7edeb65d5d906.PNG",
-    "static/media/personal.PNG": "/BankIT/static/media/personal.98d3447a8aff24639f5b.PNG",
-    "index.html": "/BankIT/index.html",
-    "main.19d664e2.css.map": "/BankIT/static/css/main.19d664e2.css.map",
-    "main.cb7ee39b.js.map": "/BankIT/static/js/main.cb7ee39b.js.map",
-    "787.db517aee.chunk.js.map": "/BankIT/static/js/787.db517aee.chunk.js.map"
+    "main.css": "/BankIT-React/static/css/main.19d664e2.css",
+    "main.js": "/BankIT-React/static/js/main.a2e8abc7.js",
+    "static/js/787.db517aee.chunk.js": "/BankIT-React/static/js/787.db517aee.chunk.js",
+    "static/media/online.jpg": "/BankIT-React/static/media/online.fb4414f214e3a446e67b.jpg",
+    "static/media/IMG_7185.JPG": "/BankIT-React/static/media/IMG_7185.f8d5781fcdf25f45e3dc.JPG",
+    "static/media/business.PNG": "/BankIT-React/static/media/business.64c70d6b30235027c6e2.PNG",
+    "static/media/cancel.PNG": "/BankIT-React/static/media/cancel.8f1aa38087deb33c69d0.PNG",
+    "static/media/menu.PNG": "/BankIT-React/static/media/menu.319942c7edeb65d5d906.PNG",
+    "static/media/personal.PNG": "/BankIT-React/static/media/personal.98d3447a8aff24639f5b.PNG",
+    "index.html": "/BankIT-React/index.html",
+    "main.19d664e2.css.map": "/BankIT-React/static/css/main.19d664e2.css.map",
+    "main.a2e8abc7.js.map": "/BankIT-React/static/js/main.a2e8abc7.js.map",
+    "787.db517aee.chunk.js.map": "/BankIT-React/static/js/787.db517aee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19d664e2.css",
-    "static/js/main.cb7ee39b.js"
+    "static/js/main.a2e8abc7.js"
   ]
 }
